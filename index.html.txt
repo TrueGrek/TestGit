@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Член</title>
+</head>
+<body>
+	<div>
+		В моих руках твой зад,
+		<p>
+		Я его фанат
+		</p>
+	</div>
+<body>
+</html>
